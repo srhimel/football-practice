@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important; 
+}
+.bg-blue{
+    background-color: #2D25A0;
+}
+.btn-pink{
+    padding: 10px 24px;
+    background:#E02C6D !important ;
+    border-radius: 0;
+    border-color: transparent;
+}
+.btn-pink:hover{
+    background-color:#75042e !important ;
+}
+.main-nav{
+   padding-top: 42px !important;
+   
+}
